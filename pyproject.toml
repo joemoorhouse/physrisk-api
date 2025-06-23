@@ -29,7 +29,7 @@ classifiers = [
 ]
 dependencies = [
   "fastapi[standard]",
-  "physrisk-lib>=1.0.3"
+  "physrisk-lib>=1.0.11"
 ]
 
 [project.urls]
